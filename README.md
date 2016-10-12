@@ -2,7 +2,7 @@
 
 #Description
 
-Free open-source Bootstrap 4 [White-Lion](http://htmlresponsivetemplates.com/project/white-lion) portfolio template.
+Free open-source Bootstrap 4 [White-Lion](http://htmlresponsivetemplates.com/project/white-lion) landing page template.
 
 ## Getting Started
 
